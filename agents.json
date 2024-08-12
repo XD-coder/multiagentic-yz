@@ -1,0 +1,7 @@
+{
+    "agent_name": {
+        "system_prompt": "---",
+        "knowledge_base": "---",
+        "important_informations": "for future generation"
+    }
+}
